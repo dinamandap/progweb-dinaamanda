@@ -1,2 +1,1 @@
-"# progweb-dinaamanda" 
-"# progweb-dinaamanda" 
+**DeuLama**, merupakan web yang dibuat untuk user yang suka sekali Drama Korea, didalamnya terdapat beberapa referensi drama – drama yang mungkin akan cocok untuk pengguna tonton. Untuk bisa mendapat referensi yang lebih banyak, pengguna harus mempunyai akun terlebih dahulu. Pengguna cukup klik Login yang ada pada dashboard untuk masuk ke halaman Home web, jika pengguna belum mempunyai akun, cukup klik link registrasi yang ada dihalaman web, dan tinggal memasukan e-mail dan username serta password untuk dapat memulai.
