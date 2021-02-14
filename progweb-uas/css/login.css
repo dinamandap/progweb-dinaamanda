@@ -1,0 +1,27 @@
+.container {
+	width: 30%;
+	margin-top: 5%;
+	box-shadow: 0 30px 30px rgba(0,0,0,0.4);
+	padding: 40px;
+}
+button{
+	width: 49%;
+}
+
+body{
+	font-family: -ms-align-self: auto;
+	align-self: auto;
+}
+	
+.center{
+	margin: 10px auto;
+	width: 1150px;
+}
+ 
+h2{
+	font-family: sans-serif;
+}
+ 
+p{
+	font-family: courier;
+}

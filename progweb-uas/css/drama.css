@@ -1,0 +1,50 @@
+body{
+	background: white;
+	font-family: century gothic;
+	text-align: left;
+	color: dark-grey;
+}
+
+ul{
+	list-style-type: none;
+	float: right;
+	margin-top: 20px;
+}
+
+ul li {
+	display: inline-block;
+}
+
+ul li a {
+	text-decoration: none;
+	color: white;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s;
+}
+
+ul li a:hover{
+	background-color: white;
+	color: black;
+}
+
+.title-movie{
+	margin-bottom: 20px;
+}
+
+.desc{
+	max-width: 40%;
+	left: 0;
+	right: 0;
+	margin-bottom: 50px;
+
+}
+.href-movie{
+	color: black;
+	text-decoration: none;
+
+}
+.href-movie:hover{
+	color: white;
+	text-decoration: none;
+}

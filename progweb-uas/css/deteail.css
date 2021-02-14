@@ -1,0 +1,42 @@
+body{
+	background: white;
+	font-family: century gothic;
+	text-align: left;
+	color: dark-grey;
+}
+ul{
+	list-style-type: none;
+	float: right;
+	margin-top: 20px;
+}
+
+ul li {
+	display: inline-block;
+}
+
+ul li a {
+	text-decoration: none;
+	color: white;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s;
+}
+
+ul li a:hover{
+	background-color: white;
+	color: black;
+}
+
+.main {
+	margin: auto;
+}
+
+.title{
+	transform: translate(-50%, -50%);
+}
+.title h5 {
+	color: white;
+	font-size: 66px;
+	text-decoration: underline;
+
+}
